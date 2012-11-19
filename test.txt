@@ -2,5 +2,5 @@
 	<li>Erlang</li>
 	<li>Python</li>
 	<li>Objective</li>
-	<li>Javascript</li>
+	<li>Ruby</li>
 </ul>
